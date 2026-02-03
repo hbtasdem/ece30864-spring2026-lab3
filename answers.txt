@@ -1,2 +1,8 @@
 
-
+Q1: Pros and Cons of Agile Development?
+    Pros:
+        Faster shipping time
+        Adaptability to change throughout the entire process
+    Cons:
+        Lacks detailed documentation
+        Less predictable
