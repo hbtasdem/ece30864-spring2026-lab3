@@ -1,1 +1,38 @@
 
+Q1: Pros and Cons of Agile Development?
+    Pros:
+        Faster shipping time
+        Adaptability to change throughout the entire process
+    Cons:
+        Lacks detailed documentation
+        Less predictable
+
+Q2: Responsibilities of a Scrum Master vs Project Owner
+    Scrum Master:
+        Runs the meetings
+        Fosters communication
+        Supports the team
+        Maintains tools & removes the blocking factors
+    Project Owner:
+        Sets the project goals 
+        Approves the major decisions
+        Assigns team responsibilities
+        Makes sure the project is on track with the expectations
+
+Q3: What are the 3 types of meetings that happen during sprint cycle? List at least
+2 things on what needs to be discussed during these meetings.
+    Sprint Planning:
+        - The goals and expectations of the sprint
+        - The deadlines and the assignments for the team members
+    Daily Scrum:
+        - What everyone accomplished the day before
+        - What everyone plans to accomplish that day
+    Sprint Review:
+        - Additional work & tasks for the product
+        - What could be done differently
+
+Q4: Differentiate between Epic, Story, Bug and Tasks types in JIRA.
+    Epic: Large parts of the project that can be broken down into smaller stories.
+    Story: Short requirements/request written from the perspective of the end user.
+    Bug: Problems that need to be fixed.
+    Task: Tasks that need to be done for the epic to be completed.
