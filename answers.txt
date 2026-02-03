@@ -6,3 +6,15 @@ Q1: Pros and Cons of Agile Development?
     Cons:
         Lacks detailed documentation
         Less predictable
+
+Q2: Responsibilities of a Scrum Master vs Project Owner
+    Scrum Master:
+        Runs the meetings
+        Fosters communication
+        Supports the team
+        Maintains tools & removes the blocking factors
+    Project Owner:
+        Sets the project goals 
+        Approves the major decisions
+        Assigns team responsibilities
+        Makes sure the project is on track with the expectations
