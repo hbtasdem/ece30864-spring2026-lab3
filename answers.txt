@@ -31,3 +31,8 @@ Q3: What are the 3 types of meetings that happen during sprint cycle? List at le
         - Additional work & tasks for the product
         - What could be done differently
 
+Q4: Differentiate between Epic, Story, Bug and Tasks types in JIRA.
+    Epic: Large parts of the project that can be broken down into smaller stories.
+    Story: Short requirements/request written from the perspective of the end user.
+    Bug: Problems that need to be fixed.
+    Task: Tasks that need to be done for the epic to be completed.
